@@ -25,15 +25,18 @@ VERSION="v1.0.0"
 ::  Install applications
 ::===============================================================================
 choco install 7zip -y
+choco install age.portable -y
 choco install angryip -y
 choco install audacity -y
 choco install bitwarden -y
 choco install bulkrenameutility -y
+choco install caddy -y
 choco install calibre -y
 choco install calibre-dedrm -y
 choco install ccleaner -y
 choco install comicrack -y
 choco install crystaldiskinfo -y
+choco install datagrip -y
 choco install defraggler -y
 choco install discord -y
 choco install diskdefragtouch -y
@@ -54,20 +57,23 @@ choco install git -y
 choco install git-fork -y
 choco install goggalaxy -y
 choco install googlechrome -y
-choco install googledrive -y
 choco install gpodder -y
 choco install handbrake -y
-choco install hyper -y
+choco install hugo -y
+choco install intellijidea-edu -y
 choco install itunes -y
 choco install jdownloader -y
 choco install libreoffice-still -y
 choco install logitech-options -y
 choco install logitech-webcam-software -y
+choco install malwarebytes -y
+choco install maven -y
 choco install microsoft-teams -y
 choco install mkvtoolnix -y
 choco install mp3tag -y
-choco install nextcloud-client -y
-choco install notepadplusplus -y
+choco install mpv -y
+choco install nodejs --version=12.13.0
+choco install obsidian -y
 choco install protonvpn -y
 choco install qgis -y
 choco install slack -y
@@ -80,6 +86,7 @@ choco install synctrayzor -y
 choco install tad -y
 choco install tailscale -y
 choco install teamviewer -y
+choco install temurin8 -y
 choco install teracopy -y
 choco install todoist-desktop -y
 choco install todotxt.net -y
@@ -89,4 +96,5 @@ choco install vscode -y
 choco install windirstat -y
 choco install winrar -y
 choco install wireguard -y
+choco install yt-dlp -y
 choco install zoom -y
