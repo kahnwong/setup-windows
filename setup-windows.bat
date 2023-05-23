@@ -24,6 +24,8 @@ VERSION="v1.0.0"
 ::===============================================================================
 ::  Install applications
 ::===============================================================================
+# choco install malwarebytes -y
+# choco install sqlitebrowser -y
 choco install 7zip -y
 choco install age.portable -y
 choco install angryip -y
@@ -45,7 +47,7 @@ choco install docker -y
 choco install dropbox -y
 choco install eac -y
 choco install f.lux -y
-choco install fastcopy -y
+choco install fastcopy.install -y
 choco install fbreader -y
 choco install filezilla -y
 choco install firefox -y
@@ -59,6 +61,7 @@ choco install goggalaxy -y
 choco install googlechrome -y
 choco install gpodder -y
 choco install handbrake -y
+choco install hexchat -y
 choco install hugo -y
 choco install intellijidea-edu -y
 choco install itunes -y
@@ -66,7 +69,6 @@ choco install jdownloader -y
 choco install libreoffice-still -y
 choco install logitech-options -y
 choco install logitech-webcam-software -y
-choco install malwarebytes -y
 choco install maven -y
 choco install microsoft-teams -y
 choco install microsoft-windows-terminal -y
@@ -79,7 +81,6 @@ choco install protonvpn -y
 choco install qgis -y
 choco install slack -y
 choco install sparkmail -y
-choco install sqlitebrowser -y
 choco install steam-client -y
 choco install sumatrapdf.install -y
 choco install syncthing -y
