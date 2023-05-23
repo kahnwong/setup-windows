@@ -24,8 +24,6 @@ VERSION="v1.0.0"
 ::===============================================================================
 ::  Install applications
 ::===============================================================================
-# choco install malwarebytes -y
-# choco install sqlitebrowser -y
 choco install 7zip -y
 choco install age.portable -y
 choco install angryip -y
