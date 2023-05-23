@@ -69,6 +69,7 @@ choco install logitech-webcam-software -y
 choco install malwarebytes -y
 choco install maven -y
 choco install microsoft-teams -y
+choco install microsoft-windows-terminal -y
 choco install mkvtoolnix -y
 choco install mp3tag -y
 choco install mpv -y
