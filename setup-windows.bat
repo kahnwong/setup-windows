@@ -40,6 +40,7 @@ choco install datagrip -y
 choco install defraggler -y
 choco install discord -y
 choco install diskdefragtouch -y
+choco install make -y
 choco install ditto -y
 choco install docker -y
 choco install dropbox -y
