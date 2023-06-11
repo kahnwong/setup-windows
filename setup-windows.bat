@@ -75,7 +75,7 @@ choco install microsoft-windows-terminal -y
 choco install mkvtoolnix -y
 choco install mp3tag -y
 choco install mpv -y
-choco install nodejs --version=12.13.0
+choco install nodejs -y
 choco install obsidian -y
 choco install protonvpn -y
 choco install qgis -y
