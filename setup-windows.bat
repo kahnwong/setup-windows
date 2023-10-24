@@ -27,6 +27,7 @@ VERSION="v1.0.0"
 choco install 7zip -y
 choco install age.portable -y
 choco install angryip -y
+choco install anydesk -y
 choco install audacity -y
 choco install bitwarden -y
 choco install bulkrenameutility -y
@@ -37,18 +38,20 @@ choco install crystaldiskinfo -y
 choco install defraggler -y
 choco install discord -y
 choco install diskdefragtouch -y
-choco install make -y
 choco install ditto -y
 choco install dropbox -y
 choco install eac -y
+choco install etcher -y
 choco install f.lux -y
 choco install fastcopy.install -y
 choco install fbreader -y
 choco install filezilla -y
 choco install firefox -y
 choco install foobar2000 -y
+choco install freeencoderpack -y
 choco install freefilesync -y
 choco install fsviewer -y
+choco install geekuninstaller -y
 choco install gh -y
 choco install git -y
 choco install git-fork -y
@@ -62,6 +65,7 @@ choco install jdownloader -y
 choco install libreoffice-still -y
 choco install logitech-options -y
 choco install logitech-webcam-software -y
+choco install make -y
 choco install microsoft-windows-terminal -y
 choco install mkvtoolnix -y
 choco install mp3tag -y
@@ -69,6 +73,7 @@ choco install mpv -y
 choco install obsidian -y
 choco install protonvpn -y
 choco install sparkmail -y
+choco install speccy -y
 choco install steam-client -y
 choco install sumatrapdf.install -y
 choco install syncthing -y
@@ -78,6 +83,7 @@ choco install tailscale -y
 choco install teracopy -y
 choco install todotxt.net -y
 choco install transgui -y
+choco install transmission -y
 choco install vlc -y
 choco install vscode -y
 choco install windirstat -y
