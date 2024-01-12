@@ -60,6 +60,8 @@ choco install googlechrome -y
 choco install gpodder -y
 choco install handbrake -y
 choco install hexchat -y
+choco install hugo -y
+choco install intellijidea-ultimate -y
 choco install itunes -y
 choco install jdownloader -y
 choco install libreoffice-still -y
