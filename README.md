@@ -1,6 +1,6 @@
 # setup-windows
 
-Right-click on `setup-windows.bat` and run as administrator.
+`01-setup-apps.bat` needs to be run as administrator.
 
 
 ## Useful commands
